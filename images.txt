@@ -1,2 +1,1 @@
-milvus
-open-webui
+ghcr.io/open-webui/open-webui:main
