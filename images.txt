@@ -1,2 +1,2 @@
-vllm/vllm-openai 
+milvus
 open-webui
